@@ -19,7 +19,7 @@ Setup Instructions:
 -------------------
 1. Download or clone the repository:
    - Clone via Git: 
-     git clone https://github.com/yourusername/file-transfer-tool.git
+     git clone https://github.com/sunayan88/secure_file_transfer.git
    - Or download the ZIP and extract it.
 
 2. Install required Python packages:
@@ -53,4 +53,4 @@ License:
 --------
 This project is licensed under the MIT License.
 
-For support or questions, contact [Your Contact Information].
+For support or questions, contact sunayanpc01@gmail.com
